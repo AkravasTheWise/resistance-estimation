@@ -1,0 +1,5 @@
+Seed_layer	R^2
+HiR-Si/WTa	0.82
+SiN/WTa	0.98
+HiR-Si/AlOx	0.97
+Hi-R/SiO2	0.95
